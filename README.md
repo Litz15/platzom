@@ -1,7 +1,7 @@
 # Platzom
 
 Platzom es un idioma inventado para el [Curso de
-Fundamentos de Javascript] (https:/platzi.com/js) en [Platzi](https:/platzi.com).
+Fundamentos de Javascript](https:/platzi.com/js) en [Platzi](https:/platzi.com).
 
 ## Descripción del idioma
 
